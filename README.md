@@ -1,4 +1,4 @@
-## Oiii eu sou a Ketlen Evelyn, aprendiz de programação e amante de tecnologia!
+## eu sou a ketlen e sou aprendiz em programação, adoraria receber dicas e feedbacks <3
 <div align="center">
 <a href="https://github.com/ketlenevelyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketlenevelyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
